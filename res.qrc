@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>browse.png</file>
+        <file>createDatabase.png</file>
+        <file>deleteThisFile.png</file>
+        <file>extract.png</file>
+        <file>insert.png</file>
+        <file>openDatabase.png</file>
+        <file>showFiles.png</file>
+    </qresource>
+</RCC>
